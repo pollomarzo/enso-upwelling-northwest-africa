@@ -1,5 +1,6 @@
 thumbnail: CISP-ENSO-Upwelling-Northwest-Africa-Figure.png
 tags:
+  domains:
   - Climate Science
   - ENSO
   - Coastal Upwelling
@@ -7,3 +8,7 @@ tags:
   - Teleconnections
   - Atlantic Ocean
   - Sea Surface Temperature
+  packages:
+  - package1
+  - p2
+  - p3
