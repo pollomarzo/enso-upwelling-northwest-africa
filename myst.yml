@@ -1,0 +1,32 @@
+version: 1
+extends:
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+
+project:
+  authors:
+  - name: Sthitapragya Ray
+    affiliations:
+    - Indian Institute of Technology Bhubaneswar, Bhubaneswar, India
+  - name: Elizaveta Baranova-Parfenova
+    affiliations:
+    - Graduate Institute of Mind, Brain and Consciousness, Taipei Medical University, Taipei, Taiwan
+  - name: Andrea A. Cabrera
+    affiliations:
+    - Globe Institute, University of Copenhagen, Copenhagen, Denmark
+  - name: Diana Guzmán
+    affiliations:
+    - Department of Geosciences, National University of Colombia, Bogotá, Colombia
+  - name: Daria Proklova
+    affiliations:
+    - Independent Researcher, Berlin, Germany
+
+  id: enso-upwelling-northwest-africa
+  title: Influence of ENSO on the Coastal Upwelling along Northwest Africa
+  github: https://github.com/pollomarzo/enso-upwelling-northwest-africa
+  # plugins:
+  # - github-issues.mjs
+
+site:
+  template: book-theme
+  options:
+    hide_toc: true
