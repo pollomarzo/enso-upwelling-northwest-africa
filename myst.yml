@@ -1,6 +1,7 @@
 version: 1
 extends:
 - https://raw.githubusercontent.com/pollomarzo/scholar-nexus/main/nexus.yml
+- https://raw.githubusercontent.com/pollomarzo/scholar-nexus-paper-config/main/paper-base.yml
 
 project:
   authors:
@@ -23,10 +24,3 @@ project:
   id: enso-upwelling-northwest-africa
   title: Influence of ENSO on the Coastal Upwelling along Northwest Africa
   github: https://github.com/pollomarzo/enso-upwelling-northwest-africa
-  # plugins:
-  # - github-issues.mjs
-
-site:
-  template: book-theme
-  options:
-    hide_toc: true

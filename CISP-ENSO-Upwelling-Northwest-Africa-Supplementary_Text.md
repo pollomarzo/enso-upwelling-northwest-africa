@@ -1,4 +1,18 @@
- # Alternate experiment: #
+---
+title: "Influence of ENSO on the Coastal Upwelling along Northwest Africa: Supplementary"
+subject: Article
+short_title: ENSO and Northwest Africa Upwelling
+keywords: 
+    - ENSO
+    - Coastal Upwelling
+    - Modoki El Niño
+numbering: 
+    enumerator: "%s."
+    headings: true
+abstract: ""
+---
+
+# Alternate experiment:
 
 In this set of analyses the SST data were first filtered to retain only interannual variations. Subsequently a Promax (power 4) rotated complex maximum covariance analysis (CMCA) analysis ([](https://doi.org/10.1175/JCLI-D-21-0244.1))  was carried out between central Pacific and eastern tropical north Atlantic SSTs to identify linked modes of variation. This method relies on a singular value decomposition of the cross-covariance matrix which separates the modes of variations under the condition that the leading modes explain most of the spatial cross-covariance between the two fields. While an MCA analysis ordinarily identifies coherent linked variations in the data fields, a complex MCA is able to detect lagged covariations using a Hilbert transform.
 

@@ -2,10 +2,14 @@
 title: Influence of ENSO on the Coastal Upwelling along Northwest Africa
 subject: Article
 short_title: ENSO and Northwest Africa Upwelling
-keywords: ENSO, coastal upwelling, Northwest Africa, teleconnections, canonical El Niño, Modoki El Niño, SST, Pacific-North Atlantic
+keywords: 
+    - ENSO
+    - Coastal Upwelling
+    - Modoki El Niño
 numbering: 
     enumerator: "%s."
     headings: true
+abstract: ""
 ---
 
 
