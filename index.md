@@ -12,6 +12,15 @@ numbering:
 abstract: ""
 ---
 
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/Grlpch464jQ
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
+
+
 
 # Introduction
 
